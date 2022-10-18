@@ -8,7 +8,7 @@ Interestd in 💻
 
 Computer Architecture, Computer Networks, Operating Systems - their Design and Optimisation  :bar_chart:
 
-Working on Energy-Delay-Product Optimisatin in 2D Tiled NUCA architecture 🎲
+Working on Energy-Delay-Product Optimisatin in 2D Mesh architecture 🎲
 
 
 <!---
