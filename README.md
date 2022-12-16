@@ -1,6 +1,6 @@
  👋 
  
-I’m zilmarij (call me that, or an explorer!)
+I’m zilmarij (call me that, or explorer!)
 
 I'm an MS(R) scholar at the CSE Department of IIT Delhi
 
