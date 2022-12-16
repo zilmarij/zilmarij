@@ -2,14 +2,11 @@
  
 I’m zilmarij
 
-MS(R) @ CSE Dept., IIT Delhi 📚
+I'm an MS(R) scholar at the CSE Department of IIT Delhi
 
-Interestd in 💻
+My academic and professional interests revolve around Design and Optimisation of Computer Systems, chiefly, Computer Architecture, Computer Networks, Operating Systems, using Machine Learning :bar_chart:
 
-Computer Architecture, Computer Networks, Operating Systems - their Design and Optimisation  :bar_chart:
-
-Working on Energy-Per-Instruction Optimisatin in 2D Mesh architecture 🎲
-
+I am always open to doing some transfer learning across domains that are relevant to my background 
 
 <!---
 zilmarij/zilmarij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
